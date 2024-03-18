@@ -1,0 +1,45 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial;
+}
+
+body{
+    background-color: rgb(41, 41, 41);
+}
+
+form{
+    width: 700px;
+    margin: auto;
+    background-color: skyblue;
+    margin-top: 100px;
+}
+
+input{
+    font-size: 18px;
+    margin: 12px;
+    padding: 8px;
+    width: 660px;
+}
+textarea{
+    font-size: 18px;
+    margin: 12px;
+    padding: 8px;
+    min-width: 660px;
+    max-width: 660px;
+    min-height: 100px;
+    max-height: 300px;
+
+}
+#boton{
+    font-size: 20px;
+    margin: 12px;
+    padding: 8px;
+    width: 660px;
+    background-color: green;
+    border: none;
+    color: white;
+}
+#boton:hover{
+    background-color: rgb(1, 92, 1);   
+}
